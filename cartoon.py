@@ -4,7 +4,7 @@ import numpy as np
 num_down =2
 num_bilateral=7
 
-img_rgb = cv2.imread("C:/Users/dell/Pictures/cat.jpg")
+img_rgb = cv2.imread("C:/Users/dell/Pictures/index.jpg")
 
 print(img_rgb.shape)
 
